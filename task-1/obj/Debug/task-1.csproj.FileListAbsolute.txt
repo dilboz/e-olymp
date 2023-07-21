@@ -1,0 +1,6 @@
+/home/dilboz/Desktop/eolymp.com/task-1/bin/Debug/task_1.exe
+/home/dilboz/Desktop/eolymp.com/task-1/bin/Debug/task_1.pdb
+/home/dilboz/Desktop/eolymp.com/task-1/obj/Debug/task-1.csproj.AssemblyReference.cache
+/home/dilboz/Desktop/eolymp.com/task-1/obj/Debug/task-1.csproj.CoreCompileInputs.cache
+/home/dilboz/Desktop/eolymp.com/task-1/obj/Debug/task_1.exe
+/home/dilboz/Desktop/eolymp.com/task-1/obj/Debug/task_1.pdb
